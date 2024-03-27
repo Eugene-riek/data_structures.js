@@ -190,3 +190,11 @@ addPost("Thank you, Kevin. I have to look good for the girls.", "Tyson");
 for (const post of timeLine) {
   displayPost(post);
 }
+
+// // MDN
+
+// const divs = document.getElementsByTagName("div");
+
+// for (let i = 0, div; (div = divs[i]); i++) {
+//   /* Process div in some way*/
+// }

@@ -1,0 +1,6 @@
+{
+  "name": "Alice",
+  "age": 26,
+  "hobbies": ["reading", "coding", "hiking"],
+  "isAdmin": false
+}
